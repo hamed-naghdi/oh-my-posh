@@ -1,4 +1,5 @@
 {
+  "$schema": "https://raw.githubusercontent.com/HamedNaghdi/oh-my-posh/master/theme/hamed_2024_2.omp.json",
   "blocks": [
     {
       "alignment": "left",
