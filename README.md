@@ -13,7 +13,7 @@ oh-my-posh init pwsh --config 'C:\Users\Hamed-Naghdi\AppData\Local\Programs\oh-m
 OR by url
 
 ```
-oh-my-posh init pwsh --config 'https://raw.githubusercontent.com/HamedNaghdi/oh-my-posh/master/theme/hamed_2024_2.omp.json' | Invoke-Expression
+oh-my-posh init pwsh --config 'https://raw.githubusercontent.com/hamed-naghdi/oh-my-posh/master/theme/hamed_2024_2.omp.json' | Invoke-Expression
 ```
 
 ## bash
@@ -29,5 +29,5 @@ eval "$(oh-my-posh init bash --config 'C:\Users\Hamed-Naghdi\AppData\Local\Progr
 OR by url
 
 ```
-eval "$(oh-my-posh init bash --config 'https://raw.githubusercontent.com/HamedNaghdi/oh-my-posh/master/theme/hamed_2024_2.omp.json')"
+eval "$(oh-my-posh init bash --config 'https://raw.githubusercontent.com/hamed-naghdi/oh-my-posh/master/theme/hamed_2024_2.omp.json')"
 ```
